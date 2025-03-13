@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shayan Ahmed! 👋  
+### 🚀 Backend Developer | Node.js | Nest.js | Express.js | AWS  
 
-<!--
-**shayan9-dev/shayan9-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated **Backend Developer** with expertise in **Node.js, Nest.js, and Express.js**, focused on building scalable and high-performance APIs. Currently working at **HieBuzz**, developing real-time systems and cloud-integrated applications. Passionate about writing clean, maintainable code and improving system efficiency.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Languages & Frameworks**: JavaScript, TypeScript, Node.js, Express.js, Nest.js  
+- **Databases**: PostgreSQL, MongoDB (Mongoose, TypeORM)  
+- **Cloud Services**: AWS (S3, EC2), Heroku, Cloudinary, Neon PostgreSQL  
+- **Version Control**: Git, GitHub  
+- **OS**: Windows, Linux (Ubuntu)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience  
+🔹 **Junior Backend Developer** @ HieBuzz (Nov 2024 – Present)  
+- Built & optimized **RESTful APIs** using **Node.js & Express.js**  
+- Implemented **WebSockets** for **real-time communication**  
+- Integrated **Cloudinary** for media management  
+- Collaborated with front-end teams for seamless backend integration  
+- Improved testing with **unit & integration tests**  
+
+## 📚 Education  
+🎓 **BS Software Engineering** @ Virtual University of Pakistan (2024 – 2028)  
+
+## 📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/shayan9-dev/)  
+🔗 [GitHub](https://github.com/shayan9-dev)  
+📧 shayanahmed8862@gmail.com  
+📞 +92 313 0510867  
+
