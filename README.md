@@ -11,7 +11,7 @@ Motivated **Backend Developer** with expertise in **Node.js, Nest.js, and Expres
 - **OS**: Windows, Linux (Ubuntu)  
 
 ## 💼 Work Experience  
-🔹 **Junior Backend Developer** @ HieBuzz (Nov 2024 – Present)  
+🔹 **Junior Backend Developer** @ HieBuzz (Nov 2024 – Aug 2025)  
 - Built & optimized **RESTful APIs** using **Node.js & Express.js**  
 - Implemented **WebSockets** for **real-time communication**  
 - Integrated **Cloudinary** for media management  
