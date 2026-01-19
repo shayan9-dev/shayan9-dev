@@ -11,6 +11,13 @@ Motivated **Backend Developer** with expertise in **Node.js, Nest.js, and Expres
 - **OS**: Windows, Linux (Ubuntu)  
 
 ## 💼 Work Experience  
+🔹 **Backend Developer** @ Techwerk.io (Aug 2024 – Present)  
+- Built & optimized **RESTful APIs** using **Node.js & NestJs**  
+- Implemented **WebSockets** for **real-time communication**  
+- Integrated **Aws S3 Bucket** for media management  
+- Collaborated with front-end teams for seamless backend integration  
+- Improved testing with **unit & integration tests** with Jest
+
 🔹 **Junior Backend Developer** @ HieBuzz (Nov 2024 – Aug 2025)  
 - Built & optimized **RESTful APIs** using **Node.js & Express.js**  
 - Implemented **WebSockets** for **real-time communication**  
