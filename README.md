@@ -11,7 +11,7 @@ Motivated **Backend Developer** with expertise in **Node.js, Nest.js, and Expres
 - **OS**: Windows, Linux (Ubuntu)  
 
 ## 💼 Work Experience  
-🔹 **Backend Developer** @ Techwerk.io (Aug 2024 – Present)  
+🔹 **Backend Developer** @ Techwerk.io (Aug 2025 – Present)  
 - Built & optimized **RESTful APIs** using **Node.js & NestJs**  
 - Implemented **WebSockets** for **real-time communication**  
 - Integrated **Aws S3 Bucket** for media management  
